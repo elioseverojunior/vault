@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+**/.terraform/**/*
+configurations/ignored/**/*
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.tfstate.lock.info
